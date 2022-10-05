@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Assignment 5A
+ * Controls gem rotation
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

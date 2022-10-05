@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Assignment 5A
+ * Controls PhysicsObject class used for character
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

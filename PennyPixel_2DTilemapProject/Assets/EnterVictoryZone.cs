@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Josh Beck
+ * Assignment 5A
+ * Triggers gameOver status when player enters victory zone
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
